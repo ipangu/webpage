@@ -21,3 +21,8 @@ python screenshot.py
 
 ## 贡献
 欢迎提交 Issues 或 Pull Requests！
+
+## 许可证
+本项目使用 [MIT 许可证](https://github.com/ipangu/webpage/blob/main/LICENSE)。
+
+MIT 许可证允许任何人复制、修改、合并、出版、分发、再许可和/或销售软件的副本，只要他们附上原始的版权声明和许可证声明。
