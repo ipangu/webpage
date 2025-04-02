@@ -33,3 +33,5 @@ def take_screenshot(url, save_path="screenshots"):
 if __name__ == "__main__":
     # 示例：截取 GitHub 首页
     take_screenshot("https://github.com")
+    # TODO: Add support for Firefox browser
+
