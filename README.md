@@ -16,24 +16,6 @@
 python screenshot.py
 ```
 3.截图会保存在 screenshots/ 目录下
-4. 点击 **Commit changes**  
 
----
-
-### **2. 添加自动测试（GitHub Actions）**
-1. 点击 **Add file → Create new file**  
-2. 文件名输入 `.github/workflows/test.yml`（注意最前面有个点）  
-3. 内容区复制以下代码：  
-
-```yaml
-name: Run Screenshot Test
-on: [push]
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Run screenshot test
-        run: python screenshot.py
+## 贡献
+欢迎提交 Issues 或 Pull Requests！
