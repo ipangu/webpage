@@ -8,9 +8,9 @@
 
 ## 如何使用
 1. 安装依赖：
-   ```bash
+```bash
 pip install -r requirements.txt
-   ```
+```
 2.运行程序：
 ```
 python screenshot.py
