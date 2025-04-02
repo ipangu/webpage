@@ -9,13 +9,15 @@
 ## 如何使用
 1. 安装依赖：
    ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
    ```
 2.运行程序：
 ```
 python screenshot.py
 ```
 3.截图会保存在 screenshots/ 目录下
+
+支持更多浏览器（计划中）……
 
 ## 贡献
 欢迎提交 Issues 或 Pull Requests！
